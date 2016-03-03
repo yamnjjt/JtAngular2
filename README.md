@@ -5,6 +5,11 @@ AngularJS 2 tutorial with VS 2015
 Just a tutorial web application to do a self learning on AngularJS 2 with Visual Studio 2015 ASP.NET 5
 
 ### References
+* *AngularJS 2 Tutorial*
+** https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
+* *Visual Studio ASP.NET 5 with AngularJS 2*
+** http://www.mithunvp.com/angular-2-in-asp-net-5-typescript-visual-studio-2015/
+
 
 ### Something to note
 For some reason, post install doesn't work well with 'typings install' when typings.json is not at root folder.
