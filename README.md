@@ -16,11 +16,10 @@ http://www.mithunvp.com/angular-2-in-asp-net-5-typescript-visual-studio-2015/
 
 
 ### Something to note
-~~
-For some reason, post install doesn't work well with 'typings install' when typings.json is not at root folder.
-This could only happen to windows 10 for windows 7 adding post install seems to work.  
+
+FIXED ~~For some reason, post install doesn't work well with 'typings install' when typings.json is not at root folder.
+This could only happen to windows 10 for windows 7 adding post install seems to work.~~ 
 ```javascript
-"postinstall": "cd script && typings install" 
+~~"postinstall": "cd script && typings install" ~~
 ```
-~~
-Typings sometimes might fail to install even though defined in devDependencies, in this case, the workaround would be installing it globally.
+~~Typings sometimes might fail to install even though defined in devDependencies, in this case, the workaround would be installing it globally.~~
